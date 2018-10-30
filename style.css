@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid greenyellow;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+table {
+    width: 100%;
+}
+
+h2 {
+    color: brown;
+}
+
+p {
+    color: blue;
+}
